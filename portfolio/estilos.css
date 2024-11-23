@@ -1,0 +1,21 @@
+main {
+    background-color: #f8f8f8
+}
+
+h1 {
+    font: Roboto;
+    font-weight: 700px;
+    color: #282938;
+    font-size: 52.67px;
+    height: 63.2px;
+
+}
+
+h1 span {
+    font: Roboto;
+    font-size: 52.67px;
+    color: #6371FF;
+    height: 63.23px;
+    font-weight: 700px
+}
+
